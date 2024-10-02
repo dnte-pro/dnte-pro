@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Kiprono Yegon
-- 👀 I’m interested in Java , Web development and Cybersecurity
-- 🌱 I’m currently learning java and cloud computing
-- 💞️ I’m looking to collaborate on full stack development
-- 📫 How to reach me ...
+Hi, I'm Kiprono Yegon 👋
+Final Year Bsc. Computer Science student
 
-<!---
-Kiprono is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Web Developer
+
+UI designer
+
+Skills
+Programming Languages: JavaScript, Python, 
+Web Technologies: HTML, CSS
+Databases: SQL
+Tools: Git
+Get in Touch
+Email: [kipronoyegon50@gmail.com]
+LinkedIn: [(https://www.linkedin.com/in/kiprono-yegon-07b145259)/]
+Goals
+To continuously learn and improve my skills in software development and UI design.
+To contribute to open source projects and collaborate with other developers.
+To develop innovative solutions that have a positive impact on society.
+Let's Connect!
+Feel free to reach out if you have any questions, collaboration ideas, or just want to say hi!
