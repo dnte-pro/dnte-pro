@@ -14,7 +14,7 @@ Get in Touch
 Email: [kipronoyegon50@gmail.com]
 LinkedIn: [(https://www.linkedin.com/in/kiprono-yegon-07b145259)/]
 Goals
-To continuously learn and improve my skills in software development and UI design.
+To continuously learn and improve my skills in software development, UI design and web developer.
 To contribute to open source projects and collaborate with other developers.
 To develop innovative solutions that have a positive impact on society.
 Let's Connect!
