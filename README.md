@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kipronoyegon50@gmail.com**
 
-- ⚡ Fun fact **I**
+- ⚡ Fun fact **I love dogs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
