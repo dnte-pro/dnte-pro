@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiprono Yegon</h1>
-<h3 align="center">A passionate fullstack developer and an upcoming DevOps Engineer</h3>
+<h3 align="center">A passionate <strong>Junior DevOps Engineer</strong> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dnte-pro&label=Profile%20views&color=0e75b6&style=flat" alt="dnte-pro" /> </p>
 
