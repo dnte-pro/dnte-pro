@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **I love dogs**
 
+- Checkout my portfolio (http://portfolio-kiprono-yegon.s3-website-us-west-2.amazonaws.com/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kipro_gon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kipro_gon" height="30" width="40" /></a>
